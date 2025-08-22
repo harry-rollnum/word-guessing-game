@@ -31,7 +31,7 @@ The game can be played online at: [Link will be available after Streamlit deploy
 
 1. Clone this repository:
    ```
-   git clone https://github.com/[your-username]/word-guessing-game.git
+   git clone https://github.com/harry-rollnum/word-guessing-game.git
    cd word-guessing-game
    ```
 
