@@ -4,7 +4,7 @@ A Wordle-like word guessing game built with Python and Streamlit. Guess the five
 
 ## Demo
 
-The game can be played online at: [Link will be available after Streamlit deployment]
+The game can be played online at: https://guessword-harry.streamlit.app/
 
 ## Features
 
